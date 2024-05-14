@@ -1,0 +1,8 @@
+1) script.py contains code snippet for changing latex code text into given JSON format
+2) For testing purpose first some text has been hardcoding instead of taking input
+3) Later taking input function is also there.
+
+How to run:-
+1) open terminal for given folder or file location
+2) for running code --> command :-  python "file_name.py"
+
